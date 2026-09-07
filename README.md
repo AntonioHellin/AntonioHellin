@@ -13,17 +13,6 @@
 
 <br/>
 
-### <font color="#e11d48">✱</font> System Overview
-
-```yaml
-profile:
-  name: Antonio Hellín
-  core_domain: Systems Architecture & Native Desktop Applications
-  primary_stack: [Modern C++, Qt/QML, Low-Latency Algorithms]
-  expanding: [LLMOps, RAG Pipelines, Local Vector Stores, Distributed Workflows]
-  doctrine: "A pose that arrives late is a wrong pose."
-```
-
 Software Engineer combining foundational expertise in **low-latency C++**, **native Qt application architecture**, and **hardware-interfacing SDKs** with high-throughput **AI-augmented engineering**. Track record spans real-time optical tracking instrumentation, industrial robotic automation cells, and surgical 3D volumetric rendering systems.
 
 ---
