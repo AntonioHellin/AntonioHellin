@@ -18,7 +18,7 @@ Software Engineer combining foundational expertise in **low-latency C++**, **nat
 
 ---
 
-### <font color="#e11d48">✱</font> Core Work & Architectures
+### <font color="#e11d48">✱</font> Projects
 
 <table>
   <tr>
