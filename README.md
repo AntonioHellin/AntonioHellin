@@ -70,8 +70,7 @@ Software Engineer combining foundational expertise in **low-latency C++**, **nat
 ### <font color="#e11d48">✱</font> Technical Matrix
 
 ```text
-SYSTEMS & NATIVE  ::  Modern C++ (17/20), C, Qt 5/6, QML, Embedded Linux, POSIX
-TRACKING & VISION ::  Optical Tracking SDKs, Triangulation, Pose Estimation, 3D Mesh
+SYSTEMS & NATIVE  ::  Modern C++, C, C#, Python, Qt 5/6, QML
+TRACKING & VISION ::  Optical Tracking SDKs
 INTELLIGENCE & AI ::  LLMOps, RAG Architectures, Vector Stores, Local Inference
-WEB & BACKEND     ::  Go, React, TypeScript, Next.js
-PLATFORM & BUILD  ::  CMake, Git, GitLab CI/CD, Docker, TDD, Protocol Buffers
+PLATFORM & BUILD  ::  CMake, Git, GitLab CI/CD, Docker
